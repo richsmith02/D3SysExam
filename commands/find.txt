@@ -1,0 +1,21 @@
+./.Trash/img.txt
+./Desktop/MyGit/D3SysExam/commands/desktopls.txt
+./Desktop/MyGit/D3SysExam/commands/find.txt
+./Desktop/MyGit/D3SysExam/commands/img.txt
+./Desktop/MyGit/D3SysExam/commands/top.txt
+./Downloads/Class01/Lesson01/02Random.txt
+./Downloads/Class01/Lesson01/Random01.txt
+./Downloads/Class01/Lesson01/Random03.txt
+./Downloads/Class03/Lab03/Illustrator.txt
+./Downloads/Class03/Lab03/Photoshop.txt
+./Downloads/Class03/Lab03/Subdirectory/File01.txt
+./Downloads/Class03/Lab03/Subdirectory/File02.txt
+./Downloads/Class03/Lab03/Subdirectory/File03.txt
+./Downloads/Class03/Lab03/Subdirectory/File04.txt
+./Downloads/Class03/Lab03/Subdirectory/File05 2.txt
+./htdocs/commands/desktopls.txt
+./htdocs/commands/img.txt
+./Library/Application Support/Avid/AppManager/Config.txt
+./Library/Application Support/TextWrangler/.SupportFolderMigration.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
